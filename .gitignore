@@ -133,4 +133,6 @@ assignments_creation.csv
 assignments_update.csv
 macti_nbg_qs.py
 nbg/
+.ans/
+.nbgex
 
