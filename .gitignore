@@ -135,4 +135,7 @@ macti_nbg_qs.py
 nbg/
 .ans/
 .nbgex
-
+SolucionSistemasLineales_01/01_conduccion_1D.ipynb
+SolucionSistemasLineales_01/conduccion_1D.mp4
+SolucionSistemasLineales_01/dominio_1D.svg
+SolucionSistemasLineales_01/malla_df_nodos_numerados.svg
